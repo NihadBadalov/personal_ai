@@ -1,0 +1,16 @@
+{
+  "name": "personal_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/search.js",
+  "scripts": {
+    "search": "node src/search.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^23.1.0"
+  }
+}
