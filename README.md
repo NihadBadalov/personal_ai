@@ -1,6 +1,13 @@
 # personal_ai
 Before using: ```npm install```
 
+## Prerequisites
+- Download `ollama` from https://ollama.ai/download
+- Run `ollama pull neural-chat`
+
+And you're all set!
+
+## What you'll need
 #### Dev
 ```
 cargo run
